@@ -1,6 +1,4 @@
-# practice-collaboration
-Ini adalah Repository Fork
-
+# Practice Collaboration
 
 This repository is for practicing collaboration using Github.
 
