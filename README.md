@@ -1,4 +1,4 @@
-# practice-collaboration
+# Practice Collaboration
 Ini adalah Repository Squash
 
 ## 16-12-2023
