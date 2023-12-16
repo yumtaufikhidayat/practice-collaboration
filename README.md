@@ -1,5 +1,5 @@
 # practice-collaboration
-Ini adalah Repository Fork
+Ini adalah Repository Squash
 
 
 This repository is for practicing collaboration using Github.
