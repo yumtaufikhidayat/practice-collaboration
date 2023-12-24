@@ -1,5 +1,5 @@
 # Practice Collaboration
-Ini adalah Repository Squash
+Ini adalah repository practice collaboration
 
 ## 24-12-2023
 
